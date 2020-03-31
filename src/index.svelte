@@ -1,3 +1,7 @@
-<h1>Svelte</h1>
+<script>
+    let name = 'Katherine'
+</script>
 
-<p>Welcome to coding with Svelte!</p>
+<h1 class="title">Svelte</h1>
+
+<p>Welcome to coding with Svelte, {name}!</p>
